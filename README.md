@@ -1,6 +1,6 @@
 # bidge 🧩
 
-**bidge** is a tiny collection of emoji-based label badges  
+**bidge** is a tiny collection of label badges  
 designed for READMEs, email signatures, and lightweight documentation.
 
 These are not brand badges — just simple, human-friendly labels
