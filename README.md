@@ -15,14 +15,22 @@ that *look* like badges.
 
 ## Sample
 
-| bidge profile   | Darkgreen                                                                  | Darkblue                                                                            |
+| socials         | Darkgreen                                                                  | Darkblue                                                                            |
+|-----------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| `github`        | ![Github](./png/darkgreen/socials/🟢_github-darkgreen.png)                 |                                                                                     |
+| `gmail`         | ![Github](./png/darkgreen/socials/🟢_gmail-darkgreen.png)                  |                                                                                     |
+
+| misc.           | Darkgreen                                                                  | Darkblue                                                                            |
 |-----------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | `copyright`     | ![Github](./png/darkgreen/misc/🟢_copyright-darkgreen.png)                 |                                                                                     |
-| `gmail`         | ![Github](./png/darkgreen/socials/🟢_gmail-darkgreen.png)                  |                                                                                     |
+
+
 
 ## About
 
-These badges are generated using shields.io and saved as static PNG files
+These bidges (little badges) are generated using shields.io and saved as static PNG files
 for use in email signatures, documentation, and offline contexts.
 
 All text, emoji, and wording are original.
+
+Under development..
