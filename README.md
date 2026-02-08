@@ -26,6 +26,7 @@ that *look* like badges.
 | `facebook`| ![facebook darkgreen](./png/darkgreen/socials/🟢_facebook-darkgreen.png) | ![facebook darkblue](./png/darkblue/socials/🔵_facebook-darkblue.png) | ![facebook darkred](./png/darkred/socials/🔴_facebook-darkred.png) | ![facebook 333](./png/333/socials/🟤_facebook-333.png) | ![facebook b40](./png/b40/socials/🟠_facebook-b40.png) |
 | `youtube` | ![youtube darkgreen](./png/darkgreen/socials/🟢_youtube-darkgreen.png) | ![youtube darkblue](./png/darkblue/socials/🔵_youtube-darkblue.png) | ![youtube darkred](./png/darkred/socials/🔴_youtube-darkred.png) | ![youtube 333](./png/333/socials/🟤_youtube-333.png) | ![youtube b40](./png/b40/socials/🟠_youtube-b40.png) |
 | `webpage` | ![webpage darkgreen](./png/darkgreen/socials/🟢_webpage-darkgreen.png) | ![webpage darkblue](./png/darkblue/socials/🔵_webpage-darkblue.png) | ![webpage darkred](./png/darkred/socials/🔴_webpage-darkred.png) | ![webpage 333](./png/333/socials/🟤_webpage-333.png) | ![webpage b40](./png/b40/socials/🟠_webpage-b40.png) |
+| `twitter` | ![twitter darkgreen](./png/darkgreen/socials/🟢_twitter-darkgreen.png) | ![twitter darkblue](./png/darkblue/socials/🔵_twitter-darkblue.png) | ![twitter darkred](./png/darkred/socials/🔴_twitter-darkred.png) | ![twitter 333](./png/333/socials/🟤_twitter-333.png) | ![twitter b40](./png/b40/socials/🟠_twitter-b40.png) |
 
 ---
 
