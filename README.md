@@ -15,14 +15,14 @@ that *look* like badges.
 
 ## Sample
 
-| socials         | Darkgreen                                                                  | Darkblue                                                                            |
-|-----------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| `github`        | ![Github](./png/darkgreen/socials/🟢_github-darkgreen.png)                 |                                                                                     |
-| `gmail`         | ![Github](./png/darkgreen/socials/🟢_gmail-darkgreen.png)                  |                                                                                     |
+| socials         | Darkgreen       | Darkblue        | DarkRed        |
+|-----------------|-----------------|-----------------|----------------|
+| `github`| ![Github](./png/darkgreen/socials/🟢_github-darkgreen.png) | ![Github](./png/darkblue/socials/🟢_github-darkblue.png) | ![Github](./png/darkred/socials/🟢_github-darkred.png) |
+| `gmail` | ![Gmail](./png/darkgreen/socials/🟢_gmail-darkgreen.png)   | ![Gmail](./png/darkblue/socials/🟢_gmail-darkblue.png)   | ![Github](./png/darkred/socials/🟢_gmail-darkred.png) |
 
-| misc.           | Darkgreen                                                                  | Darkblue                                                                            |
-|-----------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| `copyright`     | ![Github](./png/darkgreen/misc/🟢_copyright-darkgreen.png)                 |                                                                                     |
+| misc            | Darkgreen       | Darkblue        | DarkRed        |
+|-----------------|-----------------|-----------------|----------------|
+| `copyright` | ![Github](./png/darkgreen/misc/🟢_copyright-darkgreen.png) | ![Gmail](./png/darkblue/socials/🟢_copyright-darkblue.png) | ![Gmail](./png/darkred/socials/🟢_copyright-darkred.png) |
 
 
 
