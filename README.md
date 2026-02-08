@@ -15,12 +15,10 @@ that *look* like badges.
 
 ## Sample
 
-![Homepage](./readme_assets/burauenbiblio_search1.webp "BurauenBiblio Homepage")
-
 | bidge profile   | Darkgreen                                                                  | Darkblue                                                                            |
 |-----------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | `copyright`     | ![Github](./png/darkgreen/misc/🟢_copyright-darkgreen.png)                 |                                                                                     |
-| `gmail`         | ![Github](./png/darkgreen/socials/🟢_gmail-darkgreen.png)                 |                                                                                     |
+| `gmail`         | ![Github](./png/darkgreen/socials/🟢_gmail-darkgreen.png)                  |                                                                                     |
 
 ## About
 
