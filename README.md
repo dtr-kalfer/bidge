@@ -32,6 +32,4 @@ that *look* like badges.
 These bidges (little badges) are generated using shields.io and saved as static PNG files
 for use in email signatures, documentation, and offline contexts.
 
-All text, emoji, and wording are original.
-
 Under development..
