@@ -22,7 +22,7 @@ that *look* like badges.
 
 | misc            | Darkgreen       | Darkblue        | DarkRed        |
 |-----------------|-----------------|-----------------|----------------|
-| `copyright` | ![Github](./png/darkgreen/misc/🟢_copyright-darkgreen.png) | ![Gmail](./png/darkblue/socials/🔵_copyright-darkblue.png) | ![Gmail](./png/darkred/socials/🔴_copyright-darkred.png) |
+| `copyright` | ![Github](./png/darkgreen/misc/🟢_copyright-darkgreen.png) | ![Gmail](./png/darkblue/misc/🔵_copyright-darkblue.png) | ![Gmail](./png/darkred/misc/🔴_copyright-darkred.png) |
 
 
 
