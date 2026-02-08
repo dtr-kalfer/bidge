@@ -38,6 +38,9 @@ that *look* like badges.
 
 ---
 
+## Sample result
+![sample output](./sample/sample_output.webp)
+
 ## About
 
 These **bidges** (little badges) are generated using  
