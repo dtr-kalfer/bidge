@@ -13,9 +13,18 @@ that *look* like badges.
 - 🧩 Emoji + text = universal meaning
 - 🧪 Generated via shields.io, stored as static assets
 
-## Usage
+## Sample
 
-Markdown:
+![Homepage](./readme_assets/burauenbiblio_search1.webp "BurauenBiblio Homepage")
 
-```md
-![Third-Party Licenses](https://raw.githubusercontent.com/dtr-kalfer/bidge/main/png/3rd_party_licenses.png)
+| bidge profile   | Darkgreen                                                                  | Darkblue                                                                            |
+|-----------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| `copyright`     | ![Github](./png/darkgreen/misc/🟢_copyright-darkgreen.png)                 |                                                                                     |
+| `gmail`         | ![Github](./png/darkgreen/socials/🟢_gmail-darkgreen.png)                 |                                                                                     |
+
+## About
+
+These badges are generated using shields.io and saved as static PNG files
+for use in email signatures, documentation, and offline contexts.
+
+All text, emoji, and wording are original.
