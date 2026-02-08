@@ -10,7 +10,6 @@ that *look* like badges.
 
 - 📧 Email-safe (PNG, small height)
 - 🧠 No company logos
-- 🧩 Emoji + text = universal meaning
 - 🧪 Generated via shields.io, stored as static assets
 
 ## Sample
