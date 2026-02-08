@@ -15,7 +15,7 @@ that *look* like badges.
 ## Sample
 
 | socials         | Darkgreen       | Darkblue        | Darkred        | #333        | #b40        |
-|-----------------|-----------------|-----------------|----------------|----------------|
+|-----------------|-----------------|-----------------|----------------|----------------|----------------|
 | `github`| ![github](./png/darkgreen/socials/🟢_github-darkgreen.png) | ![github](./png/darkblue/socials/🔵_github-darkblue.png) | ![github](./png/darkred/socials/🔴_github-darkred.png) | ![github](./png/333/socials/🟤_github-333.png) | ![github](./png/b40/socials/🟠_github-b40.png) |
 | `gmail` | ![gmail](./png/darkgreen/socials/🟢_gmail-darkgreen.png)   | ![gmail](./png/darkblue/socials/🔵_gmail-darkblue.png)   | ![gmail](./png/darkred/socials/🔴_gmail-darkred.png) | ![gmail](./png/333/socials/🟤_gmail-333.png) | ![gmail](./png/b40/socials/🟤_gmail-b40.png) |
 | `fb`    | ![fb](./png/darkgreen/socials/🟢_facebook-darkgreen.png)   | ![fb](./png/darkblue/socials/🔵_facebook-darkblue.png)| ![fb](./png/darkred/socials/🔴_facebook-darkred.png) | ![fb](./png/333/socials/🟤_facebook-333.png) | ![fb](./png/b40/socials/🟤_facebook-b40.png) |
